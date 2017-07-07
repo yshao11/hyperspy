@@ -50,3 +50,5 @@ from hyperspy._signals.complex_signal1d import ComplexSignal1D
 from hyperspy._signals.complex_signal2d import ComplexSignal2D
 from hyperspy._signals.dielectric_function import DielectricFunction
 from hyperspy._signals.hologram_image import HologramImage
+from hyperspy._signals.tem_cbed import CBEDTEM
+
